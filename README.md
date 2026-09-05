@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hey, I'm emirerdin443-beep. 
 
-<!--
-**emirerdin443-beep/emirerdin443-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github)](https://github.com/emirerdin443-beep)
+[![Repositories](https://img.shields.io/badge/Repositories-View-black?style=flat-square&logo=github)](https://github.com/emirerdin443-beep?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/emirerdin443-beep?style=flat-square&logo=github)](https://github.com/emirerdin443-beep)
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐧 Linux enthusiast  
+💻 Python developer  
+🔧 Learning systems programming  
+🌐 Open-source contributor
+
+## Technologies
+
+`Linux` `Python` `C` `Bash` `Git` `GitHub` `KDE`
+
+## Currently Learning
+
+- Linux internals
+- Systems programming
+- Low-level development
