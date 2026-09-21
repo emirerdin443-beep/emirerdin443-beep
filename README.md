@@ -3,6 +3,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github)](https://github.com/emirerdin443-beep)
 [![Repositories](https://img.shields.io/badge/Repositories-View-black?style=flat-square&logo=github)](https://github.com/emirerdin443-beep?tab=repositories)
 [![Followers](https://img.shields.io/github/followers/emirerdin443-beep?style=flat-square&logo=github)](https://github.com/emirerdin443-beep)
+[![Instagram](https://img.shields.io/badge/Instagram-@mustafaemir__3863-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mustafaemir_3863)
 
 ## About Me
 
