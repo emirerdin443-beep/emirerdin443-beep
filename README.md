@@ -8,10 +8,11 @@
 
 ## About Me
 
-🐧 Linux enthusiast  
-💻 Python developer  
-🔧 Learning systems programming  
-🌐 Open-source contributor
+Linux enthusiast  
+Python developer  
+Learning systems programming  
+Open-source contributor
+Creator of 31chan.de5.net
 
 ## Technologies
 
