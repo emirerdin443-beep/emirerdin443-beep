@@ -1,4 +1,4 @@
-# Hey, I'm emirerdin443-beep. 
+# Hey, I'm Emir.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github)](https://github.com/emirerdin443-beep)
 [![Repositories](https://img.shields.io/badge/Repositories-View-black?style=flat-square&logo=github)](https://github.com/emirerdin443-beep?tab=repositories)
