@@ -7,11 +7,14 @@
 [![hi im emir](https://img.shields.io/badge/hi%20im%20emir-8A2BE2)](https://instagram.com/mustafaemir_3863)
 
 ## About Me
-
 Linux enthusiast  
+
 Python developer  
+
 Learning systems programming  
+
 Open-source contributor
+
 Creator of 31chan.de5.net
 
 ## Technologies
